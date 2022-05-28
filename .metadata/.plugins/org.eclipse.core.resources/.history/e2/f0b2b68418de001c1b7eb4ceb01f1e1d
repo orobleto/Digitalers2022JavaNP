@@ -1,0 +1,15 @@
+
+public class OperadoresLogicos {
+
+	public static void main(String[] args) {
+		/*
+		 * Iphone y Rojo		
+		 */
+		boolean Iphone;
+		boolean rojo;
+		// AND OR
+		System.out.println();
+
+	}
+
+}

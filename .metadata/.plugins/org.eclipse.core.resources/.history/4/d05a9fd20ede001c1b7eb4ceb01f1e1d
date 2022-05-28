@@ -1,0 +1,14 @@
+
+public class App {
+	public static void main(String[] arg) {
+		// es de tipado fuerte
+		short edad = 39;
+		String mensaje = "Tiene " + edad;
+		System.out.println(mensaje);
+		System.out.println("Tiene " + edad);
+		
+		
+		
+
+	}
+}

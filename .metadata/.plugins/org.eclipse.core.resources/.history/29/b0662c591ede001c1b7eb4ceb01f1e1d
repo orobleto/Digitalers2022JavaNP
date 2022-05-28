@@ -1,0 +1,16 @@
+
+import java.util.Scanner;
+
+public class PedirDatos {
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
+
+		int edad;
+
+		System.out.println();
+		edad = teclado.nextInt();
+		
+		System.out.println("Tu edad es " + edad);
+
+	}
+}
