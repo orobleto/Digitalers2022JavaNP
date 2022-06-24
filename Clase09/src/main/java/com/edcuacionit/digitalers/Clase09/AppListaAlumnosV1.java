@@ -29,7 +29,6 @@ public class AppListaAlumnosV1 {
 			boolean activo = JOptionPane.showConfirmDialog(null, "Esta Activo?") == 0;
 
 			Alumno alumno = new Alumno(nombre, apellido, edad, nota, activo);
-
 			alumnos[i] = alumno;
 		}
 
