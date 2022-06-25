@@ -7,6 +7,7 @@ public class Alumno {
 	private byte edad;
 	private float nota;
 	private boolean activo;
+	public static String instituto = "Digitalers";
 
 	public Alumno() {
 
@@ -19,6 +20,10 @@ public class Alumno {
 		this.edad = edad;
 		this.nota = nota;
 		this.activo = activo;
+	}
+
+	public String getAtributos() {
+		return nombre + " " + apellido + " " + edad + " " + " " + nota + " " + activo + "[" + instituto + "]";
 	}
 
 // formas de construir un objeto o inicializar	
