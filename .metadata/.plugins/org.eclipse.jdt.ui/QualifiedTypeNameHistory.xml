@@ -3,11 +3,20 @@
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="Calculos"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="Profesor"/>
     <fullyQualifiedTypeName name="Alumno"/>
     <fullyQualifiedTypeName name="com.educacionit.digitalers.entidades.Director"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.utilidades.Calculos"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Curso"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Alumno"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Persona"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Profesor"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Empleado"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.EntidadGenerica"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Documento"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 </qualifiedTypeNameHistroy>

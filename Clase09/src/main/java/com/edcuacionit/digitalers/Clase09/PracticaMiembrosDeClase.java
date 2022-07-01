@@ -8,19 +8,19 @@ public class PracticaMiembrosDeClase {
 		Alumno alumno1 = new Alumno("Octavio", "robleto", (byte) 39, 5.6f, false);
 		Alumno alumno2 = new Alumno("Analia", "Perez", (byte) 29, 5.9f, true);
 
-		System.out.println(alumno1.getAtributos() + " - " + Alumno.instituto);
+		System.out.println(alumno1.getAtributos() + " - " + Alumno.INSTITUTO);
 
-		System.out.println(alumno2.getAtributos() + " - " + Alumno.instituto);
+		System.out.println(alumno2.getAtributos() + " - " + Alumno.INSTITUTO);
 
-		Alumno.instituto = "Educacion IT";
-		System.out.println(alumno1.getAtributos() + " - " + Alumno.instituto);
+		Alumno.INSTITUTO = "Educacion IT";
+		System.out.println(alumno1.getAtributos() + " - " + Alumno.INSTITUTO);
 
-		System.out.println(alumno2.getAtributos() + " - " + Alumno.instituto);
-		Alumno.instituto = "Telecom";
+		System.out.println(alumno2.getAtributos() + " - " + Alumno.INSTITUTO);
+		Alumno.INSTITUTO = "Telecom";
 
-		System.out.println(alumno1.getAtributos() + " - " + Alumno.instituto);
+		System.out.println(alumno1.getAtributos() + " - " + Alumno.INSTITUTO);
 
-		System.out.println(alumno2.getAtributos() + " - " + Alumno.instituto);
+		System.out.println(alumno2.getAtributos() + " - " + Alumno.INSTITUTO);
 
 		System.out.println(Calculos.suma(2, 6));
 

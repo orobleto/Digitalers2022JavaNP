@@ -1,5 +1,7 @@
 package com.edcuacionit.digitalers.entidades;
 
+import java.util.Arrays;
+
 // una clase solo acepta modificador de acceso default public 
 public class Alumno {
 	private String nombre;
@@ -7,7 +9,8 @@ public class Alumno {
 	private byte edad;
 	private float nota;
 	private boolean activo;
-	public static String instituto = "Digitalers";
+	public static String INSTITUTO = "Digitalers";
+	private Curso[] cursos;
 
 	public Alumno() {
 
@@ -22,8 +25,26 @@ public class Alumno {
 		this.activo = activo;
 	}
 
+	public Alumno(String nombre, String apellido, byte edad, float nota, boolean activo, Curso[] cursos) {
+		super();
+		this.nombre = nombre;
+		this.apellido = apellido;
+		this.edad = edad;
+		this.nota = nota;
+		this.activo = activo;
+		this.cursos = cursos;
+	}
+
 	public String getAtributos() {
-		return nombre + " " + apellido + " " + edad + " " + " " + nota + " " + activo + "[" + instituto + "]";
+		String mensajeCursos = "";
+
+		for (Curso curso : this.cursos) {
+			mensajeCursos += " " + curso.getDescripcion();
+		}
+
+		return nombre + " " + apellido + " " + edad + " " + " " + nota + " " + activo + "[" + INSTITUTO + "]" + " "
+				+ mensajeCursos;
+
 	}
 
 // formas de construir un objeto o inicializar	
@@ -71,6 +92,14 @@ public class Alumno {
 
 	public void setNota(float nota) {
 		this.nota = nota;
+	}
+
+	public Curso[] getCursos() {
+		return cursos;
+	}
+
+	public void setCursos(Curso[] cursos) {
+		this.cursos = cursos;
 	}
 
 }
