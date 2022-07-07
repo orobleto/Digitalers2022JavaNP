@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="Calculos"/>
     <fullyQualifiedTypeName name="Profesor"/>
     <fullyQualifiedTypeName name="Alumno"/>
@@ -12,11 +11,21 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Curso"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Alumno"/>
-    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Persona"/>
-    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Profesor"/>
-    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Empleado"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.EntidadGenerica"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Documento"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.AlumnoTemporal"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Estudiante"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Profesor"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Persona"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Empleado"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.interfaces.Vinculo"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.interfaces.Archivo"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.interfaces.Busqueda"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.interfaces.BaseDeDatos"/>
 </qualifiedTypeNameHistroy>
