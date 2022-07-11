@@ -13,7 +13,6 @@
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Alumno"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.EntidadGenerica"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
@@ -31,8 +30,22 @@
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.PersonalSalud"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Documento"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Sede"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Persona"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.interfaces.Partido"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Futbolista"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Cuentas"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.interfaces.Negocio"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.CuentaCorrienta"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.CuentaCorriente"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Cuenta"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Producto"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.CajaAhorro"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 </qualifiedTypeNameHistroy>

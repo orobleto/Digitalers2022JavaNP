@@ -2,14 +2,14 @@ package com.edcuacionit.digitalers.entidades;
 
 import java.time.LocalDate;
 
-public class CuentaCorrienta extends Cuenta {
+public class CuentaCorriente extends Cuenta {
 
-	public CuentaCorrienta() {
+	public CuentaCorriente() {
 		super();
 
 	}
 
-	public CuentaCorrienta(Integer numero, String moneda, LocalDate fechaAlta, boolean activo, Integer cbu) {
+	public CuentaCorriente(Integer numero, String moneda, LocalDate fechaAlta, boolean activo, Integer cbu) throws Exception {
 		super(numero, moneda, fechaAlta, activo, cbu);
 
 	}

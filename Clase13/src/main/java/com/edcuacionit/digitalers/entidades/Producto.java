@@ -1,5 +1,7 @@
 package com.edcuacionit.digitalers.entidades;
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.time.LocalDate;
 
 import com.edcuacionit.digitalers.interfaces.Negocio;
@@ -14,11 +16,11 @@ public abstract class Producto implements Negocio {
 		super();
 	}
 
-	public Producto(Integer numero, String moneda, LocalDate fechaAlta, boolean activo) {
+	public Producto(Integer numero, String moneda, LocalDate fechaAlta, boolean activo) throws Exception {
 		super();
 		this.numero = numero;
 		this.moneda = moneda;
-		this.fechaAlta = fechaAlta;
+		setFechaAlta(fechaAlta);
 		this.activo = activo;
 	}
 
@@ -47,7 +49,15 @@ public abstract class Producto implements Negocio {
 		return fechaAlta;
 	}
 
-	public void setFechaAlta(LocalDate fechaAlta) {
+	public void setFechaAlta(LocalDate fechaAlta) throws Exception {
+		// fecha de alta no puede ser mayor a la fecha actual
+		// 2022-07-08 > 2022-080-09
+		LocalDate fechaActual = LocalDate.now();
+
+		if (fechaActual.isBefore(fechaAlta)) {
+			throw new Exception(fechaAlta + " > " + fechaActual);
+		}
+
 		this.fechaAlta = fechaAlta;
 	}
 
@@ -59,7 +69,7 @@ public abstract class Producto implements Negocio {
 		this.activo = activo;
 	}
 
-	//	el retorno del booleano indica si pudo realizar las operaciones
+	// el retorno del booleano indica si pudo realizar las operaciones
 	public boolean cambiarEstadoProducto(boolean estadoFinal) {
 		System.out.println("Informar al banco central que quedo " + (estadoFinal ? "activo" : "inactivo")
 				+ " el producto " + numero);
@@ -67,6 +77,11 @@ public abstract class Producto implements Negocio {
 				"Informar al AFIP que se dio de " + (estadoFinal ? "alta" : "baja") + " el producto " + numero);
 		setActivo(estadoFinal);
 		return estadoFinal;
+	}
+
+	//
+	public void cargarArchivoProducto() throws FileNotFoundException {
+		FileReader archivo = new FileReader("C:/archivos");
 	}
 
 }

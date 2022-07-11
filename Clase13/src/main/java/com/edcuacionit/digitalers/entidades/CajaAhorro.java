@@ -9,7 +9,8 @@ public class CajaAhorro extends Cuenta {
 
 	}
 
-	public CajaAhorro(Integer numero, String moneda, LocalDate fechaAlta, boolean activo, Integer cbu) {
+	public CajaAhorro(Integer numero, String moneda, LocalDate fechaAlta, boolean activo, Integer cbu)
+			throws Exception {
 		super(numero, moneda, fechaAlta, activo, cbu);
 
 	}

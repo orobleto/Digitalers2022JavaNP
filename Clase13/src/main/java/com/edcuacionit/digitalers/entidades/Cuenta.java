@@ -1,5 +1,7 @@
 package com.edcuacionit.digitalers.entidades;
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.time.LocalDate;
 
 public abstract class Cuenta extends Producto {
@@ -9,7 +11,7 @@ public abstract class Cuenta extends Producto {
 		super();
 	}
 
-	public Cuenta(Integer numero, String moneda, LocalDate fechaAlta, boolean activo, Integer cbu) {
+	public Cuenta(Integer numero, String moneda, LocalDate fechaAlta, boolean activo, Integer cbu) throws Exception {
 		super(numero, moneda, fechaAlta, activo);
 		this.cbu = cbu;
 	}
@@ -24,6 +26,10 @@ public abstract class Cuenta extends Producto {
 
 	public void setCbu(Integer cbu) {
 		this.cbu = cbu;
+	}
+
+	public void cargar() throws FileNotFoundException {
+		FileReader archivo = new FileReader("c://...");
 	}
 
 }
