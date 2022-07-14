@@ -6,6 +6,7 @@ import java.time.LocalDateTime;
 import com.edcuacionit.digitalers.entidades.Usuario;
 import com.edcuacionit.digitalers.excepciones.ExcepcionFecha;
 import com.edcuacionit.digitalers.excepciones.ExcepcionPatron;
+import static com.edcuacionit.digitalers.excepciones.TipoUsuario.*;
 
 /**
  * Hello world!
@@ -18,8 +19,9 @@ public class App {
 		try {
 			usuario.setCorreo("octavio.robleto@gmail.com");
 			usuario.setClave("Ab1234567");
-			usuario.setfechaCreacion(LocalDate.now().minusMonths(2));
+			usuario.setFechaCreacion(LocalDate.now().minusMonths(2));
 			usuario.setFechaUltimoAcceso(LocalDateTime.now());
+			usuario.setTipo(ADMINISTRADOR);// CUIT
 			System.out.println(usuario);
 		} catch (ExcepcionPatron | ExcepcionFecha e) {
 			// comportamiento distinto al excepcion padre

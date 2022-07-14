@@ -7,15 +7,19 @@ import java.time.LocalDateTime;
 
 import com.edcuacionit.digitalers.excepciones.ExcepcionFecha;
 import com.edcuacionit.digitalers.excepciones.ExcepcionPatron;
-import com.edcuacionit.digitalers.utils.utilities.text.StringUtils;
+import com.edcuacionit.digitalers.excepciones.TipoUsuario;
+import static com.edcuacionit.digitalers.utils.utilities.text.StringUtils.isMail;
+import static com.edcuacionit.digitalers.utils.utilities.text.StringUtils.isKey;
 import com.edcuacionit.digitalers.utils.utilities.time.DateUtils;
 
 //
 public class Usuario implements Closeable {
+
 	private String correo;
 	private String clave;
 	private LocalDate fechaCreacion; // yyyy-mm-dd
 	private LocalDateTime fechaUltimoAcceso; // yyyy-mm-dd hh:mm:ss
+	private TipoUsuario tipo;
 
 	public Usuario() {
 		super();
@@ -27,7 +31,7 @@ public class Usuario implements Closeable {
 		super();
 		setCorreo(correo);
 		setClave(clave);
-		setfechaCreacion(fechaCreacion);
+		setFechaCreacion(fechaCreacion);
 		setFechaUltimoAcceso(fechaUltimoAcceso);
 		System.out.println("Instancia: " + LocalDateTime.now());
 	}
@@ -36,7 +40,8 @@ public class Usuario implements Closeable {
 	public String toString() {
 		return "Usuario [correo=" + correo + ", clave=" + clave + ", fechaCreacion="
 				+ DateUtils.getString(fechaCreacion, "dd/MM/yyyy") + ", fechaUltimoAcceso="
-				+ DateUtils.getString(fechaUltimoAcceso, "dd/MM/yyyy KK:mm:ss a") + "]";
+				+ DateUtils.getString(fechaUltimoAcceso, "dd/MM/yyyy KK:mm:ss a") + ",\ntipo=" + tipo.getCadena()
+				+ ", nivel=" + tipo.getNivel() + "]";
 	}
 
 	public String getCorreo() {
@@ -44,7 +49,7 @@ public class Usuario implements Closeable {
 	}
 
 	public void setCorreo(String correo) throws ExcepcionPatron {
-		if (!StringUtils.isMail(correo)) { // !NO
+		if (!isMail(correo)) { // !NO
 			throw new ExcepcionPatron(1);
 		}
 		this.correo = correo;
@@ -55,17 +60,17 @@ public class Usuario implements Closeable {
 	}
 
 	public void setClave(String clave) throws ExcepcionPatron {
-		if (!StringUtils.isKey(clave)) {
+		if (!isKey(clave)) {
 			throw new ExcepcionPatron(2);
 		}
 		this.clave = clave;
 	}
 
-	public LocalDate getfechaCreacion() {
+	public LocalDate getFechaCreacion() {
 		return fechaCreacion;
 	}
 
-	public void setfechaCreacion(LocalDate fechaCreacion) {
+	public void setFechaCreacion(LocalDate fechaCreacion) {
 		if (LocalDate.now().isBefore(fechaCreacion)) {
 			throw new ExcepcionFecha("La fecha no debe ser mayor a la actual");
 		}
@@ -88,6 +93,14 @@ public class Usuario implements Closeable {
 	public void close() throws IOException {
 		System.out.println("Cierre: " + LocalDateTime.now());
 
+	}
+
+	public TipoUsuario getTipo() {
+		return tipo;
+	}
+
+	public void setTipo(TipoUsuario tipo) {
+		this.tipo = tipo;
 	}
 
 }
