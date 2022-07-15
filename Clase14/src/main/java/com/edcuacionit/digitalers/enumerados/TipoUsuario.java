@@ -1,8 +1,11 @@
-package com.edcuacionit.digitalers.excepciones;
+package com.edcuacionit.digitalers.enumerados;
+// ni heredables ni heredan de otras clases
 
 public enum TipoUsuario {
-
-	ADMINISTRADOR("Administrador", 0), USUARIO_FINAL("Usuario Final", 2), SUPERVISOR("Supervisor", 1);
+// constantes static y finales
+	ADMINISTRADOR("Administrador", 0), 
+	USUARIO_FINAL("Usuario Final", 2), 
+	SUPERVISOR("Supervisor", 1);
 
 	private int nivel;
 	private String cadena;

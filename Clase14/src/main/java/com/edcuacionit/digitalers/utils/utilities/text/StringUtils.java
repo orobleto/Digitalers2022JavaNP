@@ -79,7 +79,7 @@ public final class StringUtils {
 	 * 
 	 */
 	public static boolean isMail(final String str) {
-		return !isEmpty(str) && str.matches("([a-z0-9]+(\\.?[a-z0-9])*)+@(([a-z]+)\\.([a-z]+))");
+		return !isEmpty(str) && str.matches("([a-zA-Z0-9]+(\\.?[a-zA-Z0-9])*)+@(([a-zA-Z]+)\\.([a-zA-Z]+))");
 	}
 
 	public static boolean isKey(final String str) {
@@ -87,5 +87,6 @@ public final class StringUtils {
 		Matcher comparador = patron.matcher(str);
 		return comparador.find();
 	}
+	
 
 }

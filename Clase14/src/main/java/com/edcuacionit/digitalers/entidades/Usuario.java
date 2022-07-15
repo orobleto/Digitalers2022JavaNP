@@ -1,15 +1,16 @@
 package com.edcuacionit.digitalers.entidades;
 
+import static com.edcuacionit.digitalers.utils.utilities.text.StringUtils.isKey;
+import static com.edcuacionit.digitalers.utils.utilities.text.StringUtils.isMail;
+
 import java.io.Closeable;
 import java.io.IOException;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
+import com.edcuacionit.digitalers.enumerados.TipoUsuario;
 import com.edcuacionit.digitalers.excepciones.ExcepcionFecha;
 import com.edcuacionit.digitalers.excepciones.ExcepcionPatron;
-import com.edcuacionit.digitalers.excepciones.TipoUsuario;
-import static com.edcuacionit.digitalers.utils.utilities.text.StringUtils.isMail;
-import static com.edcuacionit.digitalers.utils.utilities.text.StringUtils.isKey;
 import com.edcuacionit.digitalers.utils.utilities.time.DateUtils;
 
 //
@@ -41,7 +42,7 @@ public class Usuario implements Closeable {
 		return "Usuario [correo=" + correo + ", clave=" + clave + ", fechaCreacion="
 				+ DateUtils.getString(fechaCreacion, "dd/MM/yyyy") + ", fechaUltimoAcceso="
 				+ DateUtils.getString(fechaUltimoAcceso, "dd/MM/yyyy KK:mm:ss a") + ",\ntipo=" + tipo.getCadena()
-				+ ", nivel=" + tipo.getNivel() + "]";
+				+ ", nivel=" + tipo.getNivel() + ", orden=" + tipo.ordinal() + "]";
 	}
 
 	public String getCorreo() {
@@ -101,6 +102,10 @@ public class Usuario implements Closeable {
 
 	public void setTipo(TipoUsuario tipo) {
 		this.tipo = tipo;
+	}
+
+	public String getCorreoToUpperCase() {
+		return correo.toUpperCase();
 	}
 
 }

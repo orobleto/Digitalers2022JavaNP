@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Double"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="Calculos"/>
     <fullyQualifiedTypeName name="Profesor"/>
     <fullyQualifiedTypeName name="Alumno"/>
     <fullyQualifiedTypeName name="com.educacionit.digitalers.entidades.Director"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.utilidades.Calculos"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Curso"/>
@@ -42,10 +38,26 @@
     <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
     <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Producto"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.CajaAhorro"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.Clase14.AppPracticaClosable"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.Closeable"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.utils.utilities.text.StringUtils"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.ExcepcionUsuario"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.excepciones.ExcepcionFecha"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.utils.utilities.time.DateUtils"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Usuario.TipoUsuario"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.excepciones.TipoUsuario"/>
 </qualifiedTypeNameHistroy>

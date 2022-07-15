@@ -1,12 +1,13 @@
 package com.edcuacionit.digitalers.Clase14;
 
+import static com.edcuacionit.digitalers.enumerados.TipoUsuario.*;
+
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 import com.edcuacionit.digitalers.entidades.Usuario;
 import com.edcuacionit.digitalers.excepciones.ExcepcionFecha;
 import com.edcuacionit.digitalers.excepciones.ExcepcionPatron;
-import static com.edcuacionit.digitalers.excepciones.TipoUsuario.*;
 
 /**
  * Hello world!
