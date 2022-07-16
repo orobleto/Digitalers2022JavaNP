@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Profesor"/>
-    <fullyQualifiedTypeName name="Alumno"/>
-    <fullyQualifiedTypeName name="com.educacionit.digitalers.entidades.Director"/>
-    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.utilidades.Calculos"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Curso"/>
-    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Alumno"/>
-    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.EntidadGenerica"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.AlumnoTemporal"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Estudiante"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Profesor"/>
@@ -44,9 +33,6 @@
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.Clase14.AppPracticaClosable"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.io.Closeable"/>
-    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Usuario"/>
     <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
     <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.utils.utilities.text.StringUtils"/>
@@ -60,4 +46,18 @@
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.utils.utilities.time.DateUtils"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Usuario.TipoUsuario"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.excepciones.TipoUsuario"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.enumerados.TipoUsuario"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.Clase15.GenericoDoble"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.Clase15.Generico"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.Clase15.Usuario"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
 </qualifiedTypeNameHistroy>
