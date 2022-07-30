@@ -2181,3 +2181,18 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 20:56:42.361
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FFerOBDv
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 20:56:42.362
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.FFerOBDv
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 20:56:42.362
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 20:56:42.362
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FFerOBDv => OK
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-07-27 20:56:42.948
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

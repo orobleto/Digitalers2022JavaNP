@@ -3,12 +3,9 @@
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.eutilidades.UtilidadesCadena"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Documento"/>
     <fullyQualifiedTypeName name="java.util.ListIterator"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.util.ArrayDeque"/>
     <fullyQualifiedTypeName name="java.util.Deque"/>
-    <fullyQualifiedTypeName name="java.util.Collection"/>
     <fullyQualifiedTypeName name="java.util.Queue"/>
     <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
@@ -16,6 +13,20 @@
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.eutilidades.ImprimirColeccion"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.Clase18.User"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.Clase18.App.User2"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Documento.Tipos"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Profesor"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Documento"/>
+    <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Documento.TipoDocumento"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
 </qualifiedTypeNameHistroy>

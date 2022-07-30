@@ -1725,3 +1725,7 @@
 2022-07-27 20:30:44,293 [Worker-56: Launching AppMapaObjetosPropios] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase18\src\main\resources
 2022-07-27 20:30:44,294 [Worker-56: Launching AppMapaObjetosPropios] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-27 20:30:44,294 [Worker-56: Launching AppMapaObjetosPropios] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase18\src\test\resources
+2022-07-27 20:30:50,085 [Worker-58: Launching AppMapaObjetosPropios] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 20:30:50,086 [Worker-58: Launching AppMapaObjetosPropios] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase18\src\main\resources
+2022-07-27 20:30:50,086 [Worker-58: Launching AppMapaObjetosPropios] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 20:30:50,086 [Worker-58: Launching AppMapaObjetosPropios] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase18\src\test\resources
