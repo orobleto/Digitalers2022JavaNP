@@ -2,6 +2,7 @@ package com.educaciontit.entidades;
 
 import java.time.LocalDateTime;
 
+//POJO - 
 public class Usuario {
 	private String correo;
 	private String clave;
@@ -56,5 +57,6 @@ public class Usuario {
 	public void setFechaCreacion(LocalDateTime fechaCreacion) {
 		this.fechaCreacion = fechaCreacion;
 	}
+	
 
 }
