@@ -6,9 +6,7 @@ public interface DAO<E, K> {
 
 	E buscarPorClavePrimaria(K k);
 
-	boolean insertar(E e);
-
-	boolean actualizar(E e);
+	boolean guardar(E e);
 
 	boolean eliminar(E e);
 

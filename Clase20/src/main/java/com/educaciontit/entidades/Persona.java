@@ -4,12 +4,12 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 public abstract class Persona {
-	private Documento documento;
-	private String nombre;
-	private String apellido;
-	private Boolean activo;
-	private LocalDate fechaNacimiento;
-	private LocalDateTime fechaCreacion;
+	protected Documento documento;
+	protected String nombre;
+	protected String apellido;
+	protected Boolean activo;
+	protected LocalDate fechaNacimiento;
+	protected LocalDateTime fechaCreacion;
 
 	public Persona() {
 		super();

@@ -2,13 +2,11 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.eutilidades.UtilidadesCadena"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.ListIterator"/>
     <fullyQualifiedTypeName name="java.util.ArrayDeque"/>
     <fullyQualifiedTypeName name="java.util.Deque"/>
     <fullyQualifiedTypeName name="java.util.Queue"/>
     <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Usuario"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -22,7 +20,6 @@
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Profesor"/>
-    <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Documento"/>
     <fullyQualifiedTypeName name="com.edcuacionit.digitalers.entidades.Documento.TipoDocumento"/>
@@ -30,16 +27,27 @@
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="org.mariadb.jdbc.Driver"/>
     <fullyQualifiedTypeName name="java.lang.Class"/>
-    <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="java.sql.Statement"/>
-    <fullyQualifiedTypeName name="com.octaviorobleto.commons.utilities.text.StringUtils"/>
-    <fullyQualifiedTypeName name="com.octaviorobleto.commons.utilities.time.DateUtils"/>
-    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
-    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.educaciontit.jdbc.DAO"/>
+    <fullyQualifiedTypeName name="com.educaciontit.csv.implementaciones.UsuarioImplementacion"/>
+    <fullyQualifiedTypeName name="java.time.OffsetDateTime"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.octaviorobleto.commons.utilities.time.DateUtils"/>
+    <fullyQualifiedTypeName name="com.educaciontit.jdbc.implementaciones.UsuarioImplementacion"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="com.octaviorobleto.commons.utilities.text.StringUtils"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.educaciontit.enumerados.TiposDocumento"/>
+    <fullyQualifiedTypeName name="com.educaciontit.entidades.Documento"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="com.educaciontit.jdbc.conexiones.AdministradorMariaDB"/>
     <fullyQualifiedTypeName name="com.educaciontit.entidades.Usuario"/>
 </qualifiedTypeNameHistroy>

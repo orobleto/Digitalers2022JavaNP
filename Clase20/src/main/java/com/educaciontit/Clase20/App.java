@@ -3,6 +3,7 @@ package com.educaciontit.Clase20;
 import java.time.LocalDateTime;
 
 import com.educaciontit.entidades.Usuario;
+import com.educaciontit.excepciones.JDBCExcepcion;
 import com.educaciontit.jdbc.conexiones.AdministradorMariaDB;
 import com.educaciontit.jdbc.implementaciones.UsuarioImplementacion;
 import com.octaviorobleto.commons.utilities.text.StringUtils;
@@ -18,7 +19,12 @@ public class App {
 
 		AdministradorMariaDB administradorMariaDB = AdministradorMariaDB.getAdministradorMariaDB();
 
-		UsuarioImplementacion usuarioImplementacion = new UsuarioImplementacion(administradorMariaDB.getConexion());
+		UsuarioImplementacion usuarioImplementacion = null;
+		try {
+			usuarioImplementacion = new UsuarioImplementacion(administradorMariaDB.getConexion());
+		} catch (JDBCExcepcion e) {
+			e.printStackTrace();
+		}
 
 		for (int i = 0; i < 20; i++) {
 			Usuario usuario = new Usuario();
@@ -32,7 +38,7 @@ public class App {
 			usuario.setActivo(i % 2 == 0);
 			usuario.setFechaCreacion(LocalDateTime.now());
 			System.out.println("Insertando a --> " + usuario.getCorreo());
-			usuarioImplementacion.insertar(usuario);
+			usuarioImplementacion.guardar(usuario);
 			Thread.sleep(1000);
 		}
 		System.out.println("************ usuarios **************");
