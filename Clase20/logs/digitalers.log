@@ -1,0 +1,26 @@
+2022-08-26 21:59:38.632 INFO   -com.educaciontit.Clase20.App.main(App.java:25) - es una info
+2022-08-26 21:59:38.635 WARN   -com.educaciontit.Clase20.App.main(App.java:26) - es un warn
+2022-08-26 21:59:38.635 DEBUG  -com.educaciontit.Clase20.App.main(App.java:27) - es un debug
+2022-08-26 22:03:59.686 INFO   -com.educaciontit.Clase20.App.main(App.java:25) - es una info
+2022-08-26 22:03:59.688 WARN   -com.educaciontit.Clase20.App.main(App.java:26) - es un warn
+2022-08-26 22:03:59.688 DEBUG  -com.educaciontit.Clase20.App.main(App.java:27) - es un debug
+2022-08-26 22:05:17.888 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user001@gmail.com, clave=User001.8759, activo=true, fechaCreacion=2022-08-24T21:40:20]
+2022-08-26 22:05:17.890 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user002@gmail.com, clave=User002.2311, activo=false, fechaCreacion=2022-08-24T21:40:21]
+2022-08-26 22:05:17.890 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user003@gmail.com, clave=User003.8069, activo=true, fechaCreacion=2022-08-24T21:40:22]
+2022-08-26 22:05:17.891 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user004@gmail.com, clave=User004.7314, activo=false, fechaCreacion=2022-08-24T21:40:23]
+2022-08-26 22:05:17.891 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user005@gmail.com, clave=User005.5079, activo=true, fechaCreacion=2022-08-24T21:40:24]
+2022-08-26 22:05:17.891 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user006@gmail.com, clave=User006.8227, activo=false, fechaCreacion=2022-08-24T21:40:25]
+2022-08-26 22:05:17.891 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user007@gmail.com, clave=User007.7530, activo=true, fechaCreacion=2022-08-24T21:40:26]
+2022-08-26 22:05:17.891 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user008@gmail.com, clave=User008.5626, activo=false, fechaCreacion=2022-08-24T21:40:27]
+2022-08-26 22:05:17.891 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user009@gmail.com, clave=User009.1243, activo=true, fechaCreacion=2022-08-24T21:40:28]
+2022-08-26 22:05:17.891 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user010@gmail.com, clave=User010.9473, activo=false, fechaCreacion=2022-08-24T21:40:29]
+2022-08-26 22:05:17.891 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user011@gmail.com, clave=User011.7282, activo=true, fechaCreacion=2022-08-24T21:40:30]
+2022-08-26 22:05:17.892 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user012@gmail.com, clave=User012.1976, activo=false, fechaCreacion=2022-08-24T21:40:31]
+2022-08-26 22:05:17.892 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user013@gmail.com, clave=User013.3049, activo=true, fechaCreacion=2022-08-24T21:40:32]
+2022-08-26 22:05:17.892 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user014@gmail.com, clave=User014.8904, activo=false, fechaCreacion=2022-08-24T21:40:33]
+2022-08-26 22:05:17.892 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user015@gmail.com, clave=User015.8727, activo=true, fechaCreacion=2022-08-24T21:40:34]
+2022-08-26 22:05:17.892 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user016@gmail.com, clave=User016.3744, activo=false, fechaCreacion=2022-08-24T21:40:35]
+2022-08-26 22:05:17.892 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user017@gmail.com, clave=User017.222, activo=true, fechaCreacion=2022-08-24T21:40:36]
+2022-08-26 22:05:17.893 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user018@gmail.com, clave=User018.6618, activo=false, fechaCreacion=2022-08-24T21:40:37]
+2022-08-26 22:05:17.893 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user019@gmail.com, clave=User019.6217, activo=true, fechaCreacion=2022-08-24T21:40:38]
+2022-08-26 22:05:17.893 INFO   -com.educaciontit.Clase20.App.main(App.java:54) - Usuario [correo=user020@gmail.com, clave=User020.8731, activo=false, fechaCreacion=2022-08-24T21:40:39]
