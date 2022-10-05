@@ -11074,3 +11074,776 @@ java.io.InvalidClassException: org.eclipse.m2e.core.embedder.ArtifactKey; local 
 2022-09-21 21:59:58,003 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-21 21:59:58,004 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase23\src\main\resources
 2022-09-21 21:59:58,017 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-21 21:59:58,017 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase23\src\test\resources
+2022-09-23 19:08:32,804 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-23 19:11:13,995 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\pom.xml
+2022-09-23 19:11:16,258 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Clase24:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\pom.xml.
+2022-09-23 19:11:17,440 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase24/src/main/java
+2022-09-23 19:11:17,443 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase24/src/test/java
+2022-09-23 19:11:17,691 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:11:17,692 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 19:11:17,693 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:11:17,694 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 19:11:17,770 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2022-09-23 19:43:51,345 [Worker-16: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:43:51,346 [Worker-16: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 19:43:51,347 [Worker-16: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:43:51,348 [Worker-16: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 19:44:27,949 [Worker-25: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:44:27,950 [Worker-25: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 19:44:27,951 [Worker-25: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:44:27,951 [Worker-25: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 19:47:17,744 [Worker-31: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:47:17,745 [Worker-31: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 19:47:17,746 [Worker-31: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:47:17,746 [Worker-31: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 19:55:35,038 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-23 19:55:35,221 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Clase24:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\pom.xml.
+2022-09-23 19:55:35,353 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase24/src/main/java
+2022-09-23 19:55:35,353 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase24/src/test/java
+2022-09-23 19:55:35,618 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:55:35,618 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 19:55:35,621 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:55:35,622 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 19:55:35,930 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-09-23 19:55:50,192 [Worker-34: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:55:50,192 [Worker-34: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 19:55:50,194 [Worker-34: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 19:55:50,194 [Worker-34: Launching App (4)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:04:08,434 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-23 20:04:08,615 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Clase24:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\pom.xml.
+2022-09-23 20:04:08,741 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase24/src/main/java
+2022-09-23 20:04:08,741 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase24/src/test/java
+2022-09-23 20:04:09,059 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:04:09,059 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:04:09,063 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:04:09,063 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:04:09,356 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-09-23 20:06:02,980 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-23 20:06:03,129 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Clase24:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\pom.xml.
+2022-09-23 20:06:03,459 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase24/src/main/java
+2022-09-23 20:06:03,460 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase24/src/test/java
+2022-09-23 20:06:03,642 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:06:03,642 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:06:03,644 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:06:03,644 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:06:03,678 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-09-23 20:11:29,795 [Worker-49: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:11:29,795 [Worker-49: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:11:29,797 [Worker-49: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:11:29,797 [Worker-49: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:25:33,564 [Worker-54: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:25:33,564 [Worker-54: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:25:33,564 [Worker-54: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:25:33,564 [Worker-54: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:28:40,508 [Worker-47: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:28:40,508 [Worker-47: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:28:40,509 [Worker-47: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:28:40,509 [Worker-47: Launching AppOperations] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:41:33,276 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:41:33,276 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:41:33,277 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:41:33,277 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:45:41,514 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:45:41,514 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:45:41,515 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:45:41,516 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:46:50,061 [Worker-61: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:46:50,061 [Worker-61: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:46:50,062 [Worker-61: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:46:50,062 [Worker-61: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:46:58,842 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:46:58,842 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:46:58,845 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:46:58,845 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:48:32,336 [Worker-60: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:48:32,336 [Worker-60: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:48:32,337 [Worker-60: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:48:32,338 [Worker-60: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:48:47,600 [Worker-54: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:48:47,600 [Worker-54: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:48:47,601 [Worker-54: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:48:47,601 [Worker-54: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:51:56,860 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:51:56,860 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:51:56,861 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:51:56,861 [Worker-55: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 20:52:03,215 [Worker-59: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:52:03,216 [Worker-59: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 20:52:03,217 [Worker-59: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 20:52:03,217 [Worker-59: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:01:02,299 [Worker-60: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:01:02,299 [Worker-60: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:01:02,300 [Worker-60: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:01:02,300 [Worker-60: Launching SortUserApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:27:47,226 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:27:47,227 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:27:47,227 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:27:47,227 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:28:17,392 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:28:17,392 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:28:17,393 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:28:17,393 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:29:42,802 [Worker-72: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:29:42,802 [Worker-72: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:29:42,803 [Worker-72: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:29:42,805 [Worker-72: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:31:03,759 [Worker-59: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:31:03,759 [Worker-59: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:31:03,760 [Worker-59: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:31:03,761 [Worker-59: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:33:15,421 [Worker-73: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:33:15,421 [Worker-73: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:33:15,423 [Worker-73: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:33:15,423 [Worker-73: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:33:53,255 [Worker-59: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:33:53,256 [Worker-59: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:33:53,257 [Worker-59: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:33:53,257 [Worker-59: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:33:59,546 [Worker-70: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:33:59,547 [Worker-70: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:33:59,547 [Worker-70: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:33:59,547 [Worker-70: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:34:16,193 [Worker-68: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:34:16,193 [Worker-68: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:34:16,193 [Worker-68: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:34:16,193 [Worker-68: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:36:49,130 [Worker-70: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:36:49,130 [Worker-70: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:36:49,132 [Worker-70: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:36:49,133 [Worker-70: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:37:38,353 [Worker-69: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:37:38,353 [Worker-69: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:37:38,353 [Worker-69: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:37:38,353 [Worker-69: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:38:07,948 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:38:07,948 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:38:07,949 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:38:07,949 [Worker-66: Launching SortUserApp2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:43:27,554 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:43:27,554 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:43:27,555 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:43:27,555 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:43:39,536 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:43:39,536 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:43:39,537 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:43:39,537 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:44:30,033 [Worker-68: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:44:30,033 [Worker-68: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:44:30,034 [Worker-68: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:44:30,034 [Worker-68: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:44:47,977 [Worker-69: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:44:47,977 [Worker-69: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:44:47,978 [Worker-69: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:44:47,978 [Worker-69: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:47:24,501 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:47:24,502 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:47:24,503 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:47:24,503 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:47:35,988 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:47:35,988 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:47:35,988 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:47:35,988 [Worker-59: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:50:39,328 [Worker-80: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:50:39,329 [Worker-80: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:50:39,329 [Worker-80: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:50:39,329 [Worker-80: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-23 21:52:21,745 [Worker-69: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:52:21,745 [Worker-69: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\main\resources
+2022-09-23 21:52:21,746 [Worker-69: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-23 21:52:21,746 [Worker-69: Launching SortUserApp3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\src\test\resources
+2022-09-28 19:08:17,177 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-28 19:08:18,958 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.digitalers:parent:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\parent\pom.xml.
+2022-09-28 19:08:23,292 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Clase24:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase24\pom.xml.
+2022-09-28 19:08:23,371 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.digitalers:digitalers-utilities:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\digitalers-utilities\pom.xml.
+2022-09-28 19:08:23,467 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.digitalers:Clase23:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\Clase23\pom.xml.
+2022-09-28 19:08:23,504 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/digitalers-utilities: com.digitalers:digitalers-utilities:0.0.1-SNAPSHOT with classifier  to /digitalers-utilities/target/classes
+2022-09-28 19:08:46,070 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (4) references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration App (4) references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,072 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (4) references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration App (4) references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,074 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (4) references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration App (4) references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,075 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AppOperations references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration AppOperations references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,076 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AppOperations references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration AppOperations references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,079 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AppOperations references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration AppOperations references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,080 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SortUserApp references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration SortUserApp references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,083 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SortUserApp references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration SortUserApp references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,086 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SortUserApp references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration SortUserApp references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,087 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SortUserApp2 references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration SortUserApp2 references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,088 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SortUserApp2 references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration SortUserApp2 references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,091 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SortUserApp2 references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration SortUserApp2 references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,093 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SortUserApp3 references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration SortUserApp3 references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,094 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SortUserApp3 references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration SortUserApp3 references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:08:46,099 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SortUserApp3 references closed project Clase24
+org.eclipse.core.runtime.CoreException: Launch configuration SortUserApp3 references closed project Clase24
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1733) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.200.v20220817-1601.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:827) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:982) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:170) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:104) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.100.v20220817-1539.jar:na]
+2022-09-28 19:09:17,581 [Worker-13: Launching mavenrun-e192765d-bc54-43e6-9a65-5c1605d9c93d] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022
+2022-09-28 19:09:17,583 [Worker-13: Launching mavenrun-e192765d-bc54-43e6-9a65-5c1605d9c93d] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DarchetypeVersion=1.4 -Dpackage=com.educacionit.clase25 -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DgroupId=com.educacionit -DartifactId=clase25 -DoutputDirectory="C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022" -Dversion=0.0.1-SNAPSHOT -Dstyle.color=always -U archetype:generate
+2022-09-28 19:09:35,671 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\pom.xml
+2022-09-28 19:09:35,959 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:clase25:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\pom.xml.
+2022-09-28 19:09:36,628 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase25/src/main/java
+2022-09-28 19:09:36,629 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase25/src/test/java
+2022-09-28 19:09:36,659 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-09-28 19:12:07,100 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-28 19:12:07,333 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:clase25:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\pom.xml.
+2022-09-28 19:12:07,426 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase25/src/main/java
+2022-09-28 19:12:07,427 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase25/src/test/java
+2022-09-28 19:12:07,524 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-09-28 19:17:01,209 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-28 19:17:01,420 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:clase25:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\pom.xml.
+2022-09-28 19:17:01,657 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase25/src/main/java
+2022-09-28 19:17:01,659 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase25/src/test/java
+2022-09-28 19:17:01,718 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-09-28 19:19:35,948 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-28 19:28:50,170 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-28 19:28:52,339 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:clase25:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\pom.xml.
+2022-09-28 19:28:53,247 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase25/src/main/java
+2022-09-28 19:28:53,247 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase25/src/test/java
+2022-09-28 19:28:53,370 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-09-28 19:29:17,813 [Worker-19: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:29:17,814 [Worker-19: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 19:29:17,817 [Worker-19: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:29:17,817 [Worker-19: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 19:30:02,087 [Worker-13: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:30:02,087 [Worker-13: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 19:30:02,090 [Worker-13: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:30:02,090 [Worker-13: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 19:30:29,391 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-28 19:30:29,592 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:clase25:0.0.1-SNAPSHOT @ C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\pom.xml.
+2022-09-28 19:30:29,670 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase25/src/main/java
+2022-09-28 19:30:29,671 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /clase25/src/test/java
+2022-09-28 19:30:29,761 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-09-28 19:35:23,043 [Worker-21: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:35:23,043 [Worker-21: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 19:35:23,045 [Worker-21: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:35:23,045 [Worker-21: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 19:45:21,792 [Worker-25: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:45:21,792 [Worker-25: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 19:45:21,795 [Worker-25: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:45:21,796 [Worker-25: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 19:45:46,220 [Worker-27: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:45:46,220 [Worker-27: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 19:45:46,222 [Worker-27: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:45:46,223 [Worker-27: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 19:56:37,234 [Worker-26: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:56:37,234 [Worker-26: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 19:56:37,236 [Worker-26: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:56:37,236 [Worker-26: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 19:59:01,284 [Worker-30: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:59:01,285 [Worker-30: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 19:59:01,286 [Worker-30: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 19:59:01,287 [Worker-30: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:02:42,047 [Worker-26: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:02:42,047 [Worker-26: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:02:42,049 [Worker-26: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:02:42,049 [Worker-26: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:05:11,641 [Worker-30: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:05:11,641 [Worker-30: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:05:11,643 [Worker-30: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:05:11,644 [Worker-30: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:06:05,726 [Worker-25: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:06:05,726 [Worker-25: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:06:05,729 [Worker-25: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:06:05,730 [Worker-25: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:10:31,320 [Worker-31: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:10:31,321 [Worker-31: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:10:31,323 [Worker-31: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:10:31,324 [Worker-31: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:10:46,363 [Worker-38: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:10:46,363 [Worker-38: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:10:46,365 [Worker-38: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:10:46,365 [Worker-38: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:17:58,283 [Worker-31: Launching App2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:17:58,283 [Worker-31: Launching App2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:17:58,284 [Worker-31: Launching App2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:17:58,285 [Worker-31: Launching App2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:29:59,398 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:29:59,398 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:29:59,399 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:29:59,400 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:30:05,517 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:30:05,517 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:30:05,519 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:30:05,520 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:33:37,753 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:33:37,753 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:33:37,754 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:33:37,754 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:33:43,147 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:33:43,147 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:33:43,148 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:33:43,148 [Worker-43: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:34:06,390 [Worker-44: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:34:06,391 [Worker-44: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:34:06,395 [Worker-44: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:34:06,396 [Worker-44: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:34:22,845 [Worker-44: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:34:22,845 [Worker-44: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:34:22,846 [Worker-44: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:34:22,846 [Worker-44: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:34:28,719 [Worker-42: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:34:28,719 [Worker-42: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:34:28,719 [Worker-42: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:34:28,719 [Worker-42: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:35:34,395 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:35:34,395 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:35:34,396 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:35:34,396 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:35:43,051 [Worker-42: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:35:43,053 [Worker-42: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:35:43,054 [Worker-42: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:35:43,055 [Worker-42: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:45:25,695 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:45:25,696 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:45:25,699 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:45:25,699 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:45:54,622 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:45:54,623 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:45:54,624 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:45:54,625 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:46:13,049 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:46:13,049 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:46:13,050 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:46:13,050 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:46:21,671 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:46:21,672 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:46:21,674 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:46:21,674 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:49:36,024 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:49:36,025 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:49:36,026 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:49:36,026 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:51:15,583 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:51:15,583 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:51:15,585 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:51:15,585 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:51:25,135 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:51:25,135 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:51:25,137 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:51:25,137 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:51:31,836 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:51:31,836 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:51:31,837 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:51:31,837 [Worker-50: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:53:43,473 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:53:43,474 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:53:43,475 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:53:43,475 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 20:54:50,074 [Worker-53: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:54:50,074 [Worker-53: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 20:54:50,075 [Worker-53: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 20:54:50,075 [Worker-53: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:17:27,308 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:17:27,309 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:17:27,309 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:17:27,309 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:19:06,544 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:19:06,544 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:19:06,545 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:19:06,546 [Worker-48: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:23:43,126 [Worker-58: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:23:43,126 [Worker-58: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:23:43,127 [Worker-58: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:23:43,127 [Worker-58: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:24:01,685 [Worker-54: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:24:01,686 [Worker-54: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:24:01,690 [Worker-54: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:24:01,690 [Worker-54: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:24:17,303 [Worker-57: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:24:17,304 [Worker-57: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:24:17,305 [Worker-57: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:24:17,305 [Worker-57: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:24:41,796 [Worker-58: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:24:41,797 [Worker-58: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:24:41,798 [Worker-58: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:24:41,798 [Worker-58: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:26:16,191 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:26:16,192 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:26:16,192 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:26:16,192 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:31:20,224 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:31:20,224 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:31:20,225 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:31:20,225 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:33:13,528 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:33:13,528 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:33:13,529 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:33:13,529 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:36:41,814 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:36:41,815 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:36:41,819 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:36:41,819 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:38:44,883 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:38:44,884 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:38:44,885 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:38:44,885 [Worker-56: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:41:40,703 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:41:40,703 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:41:40,706 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:41:40,706 [Worker-49: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:44:56,766 [Worker-60: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:44:56,766 [Worker-60: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:44:56,767 [Worker-60: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:44:56,768 [Worker-60: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:45:43,928 [Worker-60: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:45:43,929 [Worker-60: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:45:43,930 [Worker-60: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:45:43,930 [Worker-60: Launching AppStreamObjectBasic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:47:40,931 [Worker-62: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:47:40,931 [Worker-62: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:47:40,931 [Worker-62: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:47:40,931 [Worker-62: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:48:29,655 [Worker-60: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:48:29,655 [Worker-60: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:48:29,656 [Worker-60: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:48:29,656 [Worker-60: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:51:10,806 [Worker-63: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:51:10,806 [Worker-63: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:51:10,807 [Worker-63: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:51:10,807 [Worker-63: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:51:28,135 [Worker-65: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:51:28,135 [Worker-65: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:51:28,136 [Worker-65: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:51:28,136 [Worker-65: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:52:42,019 [Worker-63: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:52:42,019 [Worker-63: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:52:42,021 [Worker-63: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:52:42,021 [Worker-63: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:55:41,181 [Worker-62: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:55:41,181 [Worker-62: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:55:41,182 [Worker-62: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:55:41,182 [Worker-62: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:56:55,717 [Worker-65: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:56:55,718 [Worker-65: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:56:55,718 [Worker-65: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:56:55,718 [Worker-65: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
+2022-09-28 21:57:08,081 [Worker-66: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:57:08,082 [Worker-66: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\main\resources
+2022-09-28 21:57:08,083 [Worker-66: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-28 21:57:08,083 [Worker-66: Launching AppStreamOwnObject] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Boreal\Documents\Educacion IT\Digitalers 2022\clase25\src\test\resources
