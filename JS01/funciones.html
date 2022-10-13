@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+
+        function saludo() {
+            return "Hola";
+        }
+
+        console.log(saludo());
+
+
+        function noRetorno() {
+            numero = 2 * 2;
+        }
+
+        console.log(noRetorno());
+        console.log(typeof (noRetorno));
+
+        saludar = saludo();
+        console.log(typeof (saludar));
+
+        function sumar(num1 = 0, num2 = 0) {
+            return num1 + num2;
+        }
+
+        console.log(sumar(2, 3));
+
+        console.log(sumar(2));
+        console.log(sumar());
+
+    </script>
+</body>
+
+</html>

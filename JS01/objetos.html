@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        // json
+        const alumno = {
+            "nombre-completo": "Sol Fanton", //no recomendable NOOOOOOOOOOOOOOOOOOOO
+            fechaNacimiento: new Date(),
+            nombre: "Sol",
+            apellido: "Fanton",
+            edad: 19,
+            activo: true,
+            direccion: {
+                calle: "Corrientes",
+                numero: 3066
+            },
+            cursos: ["Java", "Base de datos"],
+            mostrarDatos: function () {
+                alert(this.nombre + " " + this.apellido + " " + this.edad);
+            }
+        }
+        console.log(alumno);
+
+        console.log(alumno.apellido);
+        console.log(alumno["nombre"]);
+        alumno.nombre = "malena";
+        alumno["apellido"] = "Perez";
+
+        console.log(alumno.apellido);
+        console.log(alumno["nombre"]);
+        //alumno.mostrarDatos();
+        console.log(alumno["nombre-completo"]);
+        console.log("Llamando a los elementos del objeto");
+        for (const atributo in alumno) {
+            console.log(atributo + " -> " + alumno[atributo]);
+
+        }
+
+        console.log(JSON.stringify(alumno));
+
+    </script>
+</body>
+
+</html>

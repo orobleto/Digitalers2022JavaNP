@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promesas</title>
+</head>
+
+<body>
+
+    <script>
+
+        // try catch
+
+        let numero = 8;
+
+        const promesaPar = new Promise(
+            function (resolve, reject) {
+                if (numero % 2 == 0) {
+                    resolve("el numero " + numero + " es par");
+                } else {
+                    reject("el numero " + numero + " NOOOO es par");
+                }
+            }
+        );
+        console.log("Comienza");
+        promesaPar.then(function (mensaje) {
+            console.log(mensaje);
+        }).catch(function (mensaje) {
+            console.error(mensaje);
+        }).finally(function () {
+            console.error("termino");
+        });
+        console.log("Termina");
+
+        const promesaPar2 = new Promise(
+            function (resolve, reject) {
+                if (numero % 2 == 0) {
+                    resolve(numero);
+                } else {
+                    reject(numero);
+                }
+            }
+        );
+
+
+        promesaPar2.then(function (valor) {
+            return valor;
+        }).then(function (valor) {
+            console.log(valor*5);
+        });
+
+    </script>
+
+</body>
+
+</html>

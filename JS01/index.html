@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button onclick="console.log(this)">Pulsar</button>
+
+    <section id="seccion1">
+        <h1>Titulo</h1>
+        <h2>Subtitulo</h2>
+        <p id="parrafo1"><strong>Hola</strong> algo</p>
+    </section>
+    <section id="seccion2">
+        <h1>Titulo</h1>
+        <h2>Subtitulo</h2>
+        <p id="parrafo2"><strong>Hola</strong> algo</p>
+    </section>
+
+
+    <script>
+
+
+console.log(document.getElementById("parrafo1").innerText);
+document.getElementById("parrafo1").innerText = "Hola desde JS";
+console.log(document.getElementById("seccion1").innerText);
+console.log(document.getElementById("seccion1").innerHTML);
+document.getElementById("seccion1").innerText = "<h3>Hola</h3>";
+document.getElementById("seccion2").innerHTML = "<h3>Hola</h3>";
+for (i = 0; i < 20; i++) {
+    document.write(i)
+}
+
+alert("Hola soy una ventana");
+mensaje = window.prompt("Indicame algo");
+alert(mensaje)
+eresMayor = window.confirm("Indica si eres mayor");
+console.log(eresMayor);
+    </script>
+
+</body>
+
+</html>
