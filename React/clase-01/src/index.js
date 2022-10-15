@@ -1,6 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import Tarjeta from './Componentes/Tarjeta';
+import ReactDOM from 'react-dom';
+import App from './App';
+
 /*
 // obtengo el objeto root => div del html     <div id="root"></div>
 const contenedor = document.getElementById("root");
@@ -17,25 +18,19 @@ h1.innerText = saludo;
 contenedor.appendChild(h1);
 */
 
+ReactDOM.render(
+  <React.StrictMode>
+    <App/>
+  </React.StrictMode>,
+  document.getElementById('root')
+);
 
+/*
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Tarjeta
-      nombre="Octavio Robleto"
-      correo="octavio.robleto@gmail.com"
-      titulo="Ingeniero"
-      >
-
-    </Tarjeta>
-    <Tarjeta
-      nombre="Matias Acevedo"
-      correo="matias.acevedo@gmail.com"
-      titulo="Ingeniero"
-    />
-
-
+    <App/>
   </React.StrictMode>
 );
-
+*/
 
